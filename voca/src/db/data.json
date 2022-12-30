@@ -15,6 +15,14 @@
     {
       "day": 4,
       "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    },
+    {
+      "day": 6,
+      "id": 6
     }
   ],
   "words": [
@@ -59,6 +67,48 @@
       "kor": "사과",
       "isDone": false,
       "id": 11
+    },
+    {
+      "day": "3",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false,
+      "id": 12
+    },
+    {
+      "day": "3",
+      "eng": "house",
+      "kor": "집",
+      "isDone": false,
+      "id": 13
+    },
+    {
+      "day": "1",
+      "eng": "coffee",
+      "kor": "커피",
+      "isDone": false,
+      "id": 14
+    },
+    {
+      "day": "5",
+      "eng": "pencil case",
+      "kor": "필통",
+      "isDone": false,
+      "id": 15
+    },
+    {
+      "day": "5",
+      "eng": "notion",
+      "kor": "노션",
+      "isDone": false,
+      "id": 16
+    },
+    {
+      "day": "5",
+      "eng": "sticker",
+      "kor": "스티커",
+      "isDone": true,
+      "id": 17
     }
   ]
 }
