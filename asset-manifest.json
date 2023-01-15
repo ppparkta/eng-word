@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eng-word/static/css/main.8c5f9c23.css",
+    "main.js": "/eng-word/static/js/main.f803b0f1.js",
+    "index.html": "/eng-word/index.html",
+    "main.8c5f9c23.css.map": "/eng-word/static/css/main.8c5f9c23.css.map",
+    "main.f803b0f1.js.map": "/eng-word/static/js/main.f803b0f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c5f9c23.css",
+    "static/js/main.f803b0f1.js"
+  ]
+}
